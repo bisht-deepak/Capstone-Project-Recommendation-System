@@ -13,7 +13,10 @@ The objective was to go beyond generic recommendations and provide users with ta
 1. A well-documented recommendation system that recommends books based on users past prefrences.
 
 ## Success Criteria:
-The success of the project will be evaluated based on the model's accuracy in predicting appliance energy consumption. Additionally, the project's success will be determined by the identification of key factors that significantly impact energy usage and the provision of actionable insights for homeowners to reduce energy consumption effectively.
+The success of the recommendation system will be evaluated based on:
+- Improved user engagement with recommended books.
+- Increased user satisfaction with the suggested books.
+- Positive feedback from users regarding the relevance of recommendations.
 
 ## Getting Started
 ### Prerequisites
